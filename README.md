@@ -1,2 +1,4 @@
 # spring-sql-nosql
-Spring Boot Application with connects with Mysql and MongoDb Databases and performs CURD operations.
+
+Spring Boot Application which connects with Mysql and MongoDb Databases and performs CURD operations.
+
